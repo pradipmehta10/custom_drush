@@ -1,0 +1,5 @@
+name: Custom Drush Example
+package: custom
+core_version_requirement: ^9 || ^10
+description: This is testing Custom Drush module
+type: module
